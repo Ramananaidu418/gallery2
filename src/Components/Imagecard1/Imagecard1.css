@@ -1,0 +1,26 @@
+*{
+    margin:0;
+    padding: 0;
+}
+.card{
+    width:363px;
+    height:244px;
+    margin:0px 0px 48px 0px;
+    padding: 0px 12px;
+
+}
+.imagecard1{
+    width:363px;
+    height:204px;
+    margin-bottom: 16px;
+}
+img{
+    width:363px;
+    height:204px;
+
+}
+.viewsContainer{
+    display: flex;
+    justify-content: space-between;
+
+}

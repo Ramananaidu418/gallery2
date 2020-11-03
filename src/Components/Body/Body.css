@@ -1,0 +1,33 @@
+*{
+    margin:0;
+    padding: 0;
+
+}
+.images{
+    width:100%;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.space{
+    height:1000px;
+    width:100%;
+    background-color:white;
+}
+.emptyspace{
+    height:50px;
+    width:100%;
+    background-color: white;
+
+}
+.latest-photos{
+    padding: 0px 12px;
+    font-weight: 500;
+    display: flex;
+    margin-bottom: 40px;
+    justify-content: space-between;
+
+}
+.latest-photos p{
+    padding-top: 20px;
+}

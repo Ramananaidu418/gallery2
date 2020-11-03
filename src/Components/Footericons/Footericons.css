@@ -1,0 +1,31 @@
+.symbols{
+    display: flex;
+    font-size: 50px;
+    color: green;
+    justify-content: space-between;
+    align-items: center;
+    padding:10px;
+}
+.btn2{
+    background-color:rgb(201, 194, 194); 
+        border: none;
+        color:white;
+        padding: 18px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 8px;
+        cursor: pointer;
+        /* border-radius: 8px; */
+        display: flex;
+        align-items: center;
+        justify-content: center;
+}
+.btn2:hover{
+    background-color: teal;
+  }
+  .policy{
+      margin-top: 20px;
+      margin-left: 140px;
+  }
